@@ -1,0 +1,2 @@
+something like:
+sudo tail -f -n 300 /var/log/clickhouse-server/clickhouse-server.log | grep -i error
